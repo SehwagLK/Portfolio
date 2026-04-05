@@ -12,7 +12,7 @@ A modern and responsive **personal portfolio website** built using **React.js** 
 
 ## 🧑‍💻 About Me
 
-I am **Sehwag LK**, a Computer Science Engineering student passionate about building scalable web applications using modern technologies like React.js and Spring Boot.
+I am **Veer Sehwag LK**, a Computer Science Engineering student passionate about building scalable web applications using modern technologies like React.js and Spring Boot.
 
 ---
 
@@ -77,8 +77,8 @@ npm start
 
 ## 🔗 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* GitHub: https://github.com/SehwagLK
+* LinkedIn: https://linkedin.com/in/Veer Sehwag LK
 * LeetCode: https://leetcode.com/sehwaglk
 
 ---
