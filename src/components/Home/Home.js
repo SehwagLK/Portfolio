@@ -7,6 +7,10 @@ import Type from "./Type";
 
 import {
   AiFillGithub,
+import Techstack from "../About/Techstack";
+import Github from "../About/Github";
+import {
+  AiFillGithub,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
