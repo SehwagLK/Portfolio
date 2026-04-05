@@ -5,10 +5,10 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
-import {
-  AiFillGithub,
+// ✅ Proper imports
 import Techstack from "../About/Techstack";
 import Github from "../About/Github";
+
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -32,7 +32,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> VEER SEHWAG L K</strong>
+                <strong className="main-name"> SEHWAG LK</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -51,8 +51,17 @@ function Home() {
           </Row>
         </Container>
       </Container>
+
+      {/* About Section */}
       <Home2 />
 
+      {/* 🔥 Tech Stack */}
+      <Techstack />
+
+      {/* 🔥 GitHub / LeetCode Section */}
+      <Github />
+
+      {/* Social Links */}
       <Container>
         <Row style={{ paddingTop: "50px", paddingBottom: "80px" }}>
           <Col md={12} className="home-about-social">
@@ -60,28 +69,30 @@ function Home() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
                   href="https://github.com/SehwagLK"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
               </li>
-  
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/veer-sehwag-lk-1842072b8/"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/sehwag_lk"
