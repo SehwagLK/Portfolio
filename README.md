@@ -61,7 +61,7 @@ I am **Veer Sehwag LK**, a Computer Science Engineering student passionate about
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio.git
+git clone https://github.com/SehwagLK/portfolio.git
 cd portfolio
 npm install
 npm start
@@ -78,7 +78,7 @@ npm start
 ## 🔗 Connect with Me
 
 * GitHub: https://github.com/SehwagLK
-* LinkedIn: https://linkedin.com/in/Veer Sehwag LK
+* LinkedIn: https://www.linkedin.com/in/veer-sehwag-lk-1842072b8/
 * LeetCode: https://leetcode.com/sehwaglk
 
 ---
